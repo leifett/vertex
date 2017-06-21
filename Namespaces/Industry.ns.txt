@@ -1,0 +1,17 @@
+Legal
+Finance
+Finance:Banking
+Transportation
+Telecommunications
+Media
+Media:Publishing
+Media:Radio
+Media:Television
+Manufacturing
+Hospitality
+Health
+Entertainment
+Construction
+Aerospace
+Agriculture
+Defense

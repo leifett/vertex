@@ -1,0 +1,68 @@
+Geography
+Geography:Physical
+Geography:Physical:Biosphere
+Geography:Physical:Biosphere:Fauna
+Geography:Physical:Biosphere:Flora
+Geography:Physical:Pedosphere
+Geography:Physical:Hydrosphere
+Geography:Physical:Lithosphere
+Geography:Physical:Atmosphere
+Geography:Political
+Geography:Political:Economic
+Geography:Political:Social
+Geography:Political:Cultural
+Linguistics
+Astronomy
+Geology
+Mathematics
+Mathematics:Applied
+Mathematics:Applied:Computational
+Mathematics:Applied:Computational:Mathematical finance
+Mathematics:Applied:Computational:Game theory
+Mathematics:Applied:Computational:Mathematical biology
+Mathematics:Applied:Computational:Mathematical chemistry
+Mathematics:Applied:Computational:Mathematical economics
+Mathematics:Applied:Computational:Control theory
+Mathematics:Applied:Computational:Cryptography
+Mathematics:Applied:Computational:Probability theory
+Mathematics:Applied:Computational:Optimisation
+Mathematics:Applied:Computational:Numerical analysis
+Mathematics:Applied:Computational:Fluid dynamics
+Mathematics:Applied:Computational:Mathematical physics
+Mathematics:Applied:Statistics
+Mathematics:Pure
+Mathematics:Pure:Change
+Mathematics:Pure:Change:Dynamic systems
+Mathematics:Pure:Change:Differential equations
+Mathematics:Pure:Change:Vector calculus
+Mathematics:Pure:Change:Complex Analysis
+Mathematics:Pure:Change:Chaos Theory
+Mathematics:Pure:Change:Calculus
+Mathematics:Pure:Space
+Mathematics:Pure:Space:Topology
+Mathematics:Pure:Space:Fractal geometry
+Mathematics:Pure:Space:Measure theory
+Mathematics:Pure:Space:Trigonometry
+Mathematics:Pure:Space:Geometry
+Mathematics:Pure:Space:Geometry:Algebraic
+Mathematics:Pure:Space:Geometry:Discrete
+Mathematics:Pure:Space:Geometry:Differential
+Mathematics:Pure:Space:Geometry:Topology
+Mathematics:Pure:Space:Geometry:Convex
+Mathematics:Pure:Space:Geometry:Euclidean
+Mathematics:Pure:Structure
+Mathematics:Pure:Structure:Algebra
+Mathematics:Pure:Structure:Order theory
+Mathematics:Pure:Structure:Graph theory
+Mathematics:Pure:Structure:Group theory
+Mathematics:Pure:Structure:Number theory
+Mathematics:Pure:Structure:Combinatorics
+Mathematics:Pure:Quantity
+Mathematics:Pure:Quantity:Complex numbers
+Mathematics:Pure:Quantity:Real numbers
+Mathematics:Pure:Quantity:Rational numbers
+Mathematics:Pure:Quantity:Integers
+Mathematics:Pure:Quantity:Natural numbers
+Chemistry
+Medicine
+Physics
